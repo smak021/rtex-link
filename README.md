@@ -69,5 +69,6 @@ engine, lights, horn, locks, braking, or other vehicle-control systems.
 
 ## To do
 
-- Call notifications and call controls on the cluster.
-- Music information and playback controls on the cluster.
+- ~~Call notifications and call controls on the cluster.~~
+- ~~Music information and playback controls on the cluster.~~
+- Outgoing call information and controls on the cluster.
