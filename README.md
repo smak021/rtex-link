@@ -50,18 +50,11 @@ On Samsung phones, keep Google Maps and RTEx Link out of **Sleeping apps** and *
 
 Tap **Pause companion** in Settings before using TVS Connect. Tap **Resume companion** when returning to RTEx Link.
 
-## Updating and backups
-
-RTEx Link was previously called **RTX Companion**. The package identity is unchanged. Install updates over the existing app with the same signing key to retain your data; do not uninstall or clear storage.
-
-Release and debug APKs have different signing keys. Export a backup from **Settings → Data & backup** before switching build types or phones.
-
 ## Privacy and safety
 
 - The journal is stored locally; backups are exported through Android’s file picker.
 - No ECU, firmware, diagnostic, immobilizer or vehicle-control operations.
 - Navigation may be delayed or incorrect. Follow road signs and use the phone only when safely stopped.
-- Bluetooth disconnects can split rides; compatibility varies by phone and cluster.
 
 ## To do
 
